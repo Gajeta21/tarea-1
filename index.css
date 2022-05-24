@@ -1,0 +1,14 @@
+.tittle{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+.datos{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red
+}
+.image{
+    width: 360;
+    height: 360;
+}
